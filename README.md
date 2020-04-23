@@ -1,2 +1,2 @@
-# SMS_Weather_App
+# SMS Weather App
 Get Weather via SMS
